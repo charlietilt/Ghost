@@ -62,7 +62,7 @@ config.js
 /core/client/config.js
 
 # Built asset files
-/core/client/assets/css
+#/core/client/assets/css
 /core/client/assets/img/contributors/
 /core/client/docs/dist/css
 /core/client/templates/-contributors.hbs
